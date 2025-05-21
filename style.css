@@ -40,4 +40,10 @@ a {
 .topnav a:hover {
   background-color: #7BA083;
   color: #50727B;
-} 
+}
+
+.main {
+
+  margin: 12pt
+
+}
