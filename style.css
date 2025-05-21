@@ -18,14 +18,15 @@ body {
  /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: green;
+  background-color: darkmagenta;
+  text-align: center;
 }
 
 /* Navbar links */
 .topnav a {
   float: left;
   display: block;
-  color: lightgreen;
+  color: violet;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -33,6 +34,6 @@ body {
 
 /* Links - change color on hover */
 .topnav a:hover {
-  background-color: green;
-  color: greenyellow;
+  background-color: darkmagenta;
+  color: pink;
 } 
