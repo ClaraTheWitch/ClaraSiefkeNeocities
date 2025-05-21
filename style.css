@@ -14,3 +14,25 @@ body {
   text-align: center;
   padding: 20px;
 }
+
+ /* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: green;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: lightgreen;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: green;
+  color: greenyellow;
+} 
