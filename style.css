@@ -10,7 +10,7 @@ body {
 }
 
 .header {
-  background-color: purple;
+  background-color: darkmagenta;
   text-align: center;
   padding: 20px;
 }
@@ -18,7 +18,7 @@ body {
  /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: darkmagenta;
+  background-color: purple;
   text-align: center;
 }
 
