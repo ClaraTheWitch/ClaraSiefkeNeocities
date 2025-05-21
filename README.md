@@ -4,6 +4,6 @@
 
 **Author:** Clara Siefke
 
-**Last Modified:** 05/20/2025
+**Last Modified:** 05/21/2025
 
 This repository holds the source code for my [website](https://clarasiefke.neocities.org/) made with [Neocities](https://neocities.org/).
