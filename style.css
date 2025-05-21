@@ -9,6 +9,10 @@ body {
   margin: 0
 }
 
+a {
+  color: #7BA083;
+}
+
 .header {
   background-color: #344955;
   text-align: center;
